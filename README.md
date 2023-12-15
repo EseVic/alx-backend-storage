@@ -20,7 +20,7 @@ $ git clone https://github.com/your-username/alx-backend-storage.git
 Each subdirectory corresponds to a project or exercise, and contains its own README file with usage instructions.
 
 ## Author
-[Abiodun Shittu](http://github.com/Abiodun-Shittu)
+[Victoria Iria](http://github.com/EseVic)
 
 ## Acknowledgments
 ALX Software Engineering program's Back-End track instructors and peers.
